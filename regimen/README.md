@@ -24,7 +24,7 @@ Modified regimens allow for the consumption of 20–25% of energy needs on sched
 
 3. **Time-Restricted Feeding**
 
-These protocols allow individuals to consume ad libitum energy intake within specific windows, which induces fasting periods on a routine basis. Studies of <3 meals per day are indirect examinations of a prolonged daily or nightly fasting periods.
+These protocols allow individuals to consume ad-libitum energy intake within specific windows, which induces fasting periods on a routine basis. Studies of < 3 meals per day are indirect examinations of a prolonged daily or nightly fasting periods.
 
 
 ### Our Method
