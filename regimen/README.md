@@ -64,7 +64,7 @@ There are many biomarkers related to metabolism. Here are **9** biomarkers menti
 10. Adiponectin
 
 
-#### Genetics Factors
+#### Genetic Factors
 Here, we have listed these **4** genes whose effects on the metabolism have been studied in articles. [*[6]*](#references) [*[7]*](#references) [*[8]*](#references) [*[9]*](#references)
 
 1. KLKB1
