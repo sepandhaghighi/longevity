@@ -90,6 +90,7 @@ The block diagram of this system is shown in the figure.
 <img src="1.jpg">
 <p>Fig1. System Block Diagram</p>
 </div>
+
 #### Advantages
 
 - Suggesting calorie restriction regimen based on biomarkers
