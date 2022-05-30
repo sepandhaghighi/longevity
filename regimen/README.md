@@ -51,7 +51,7 @@ Upper bound for calories consumed over a period of time
 
 
 #### Biomarkers List
-There are many biomarkers related to metabolism. Here are **10** biomarkers mentioned in most articles: [*[2]*](#references) [*[3]*](#references) [*[4]*](#references) [*[5]*](#references)
+There are many biomarkers related to metabolism. Here are **9** biomarkers mentioned in most articles: [*[2]*](#references) [*[3]*](#references) [*[4]*](#references) [*[5]*](#references)
 
 1. Leptin
 2. TNF-α
