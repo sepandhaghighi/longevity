@@ -68,7 +68,7 @@ If there are enough samples and successful training of this deep neural network,
 The block diagram of this system is shown in the figure.
 
 <div align="center" style="text-align: center;">
-<img src="1.jpg">
+<img src="1.jpg" style="width:50%;height:50%;">
 <p>Fig1. System Block Diagram</p>
 </div>
 
