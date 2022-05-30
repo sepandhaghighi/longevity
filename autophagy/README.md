@@ -1,4 +1,4 @@
-## Autophagy Estimation in Vivo by Using of a Black-Box Model
+## Autophagy Estimation in Vivo by Using a Black-Box Model
 
 [**Mojtaba Moghadam**](https://github.com/mojtaba-moghadam) - *MSc of Biosystematics* - University of Zanjan
 
