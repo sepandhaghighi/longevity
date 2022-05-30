@@ -20,7 +20,7 @@ These regimens involve alternating fasting days (no energy-containing foods or b
 
 2. **Modified Fasting Regimens**
 
-Modified regimens allow for the consumption of 20–25% of energy needs on scheduled fasting days. This regimen is the basis for the popular 5:2 diet, which involves severe energy restriction for 2 non-consecutive days a week and ad libitum eating the other 5 days.
+Modified regimens allow for the consumption of 20–25% of energy needs on scheduled fasting days. This regimen is the basis for the popular 5:2 diet, which involves severe energy restriction for 2 non-consecutive days a week and ad-libitum eating the other 5 days.
 
 3. **Time-Restricted Feeding**
 
