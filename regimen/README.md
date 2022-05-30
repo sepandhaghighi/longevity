@@ -15,12 +15,15 @@ First, we review classic fasting regimens and then propose our method.
 There are three main types of fasting: [*[1]*](#references)
 
 1. **Complete Alternate Day Fasting**
+
 These regimens involve alternating fasting days (no energy-containing foods or beverages consumed) with eating days (foods and beverages consumed ad-libitum).
 
 2. **Modified Fasting Regimens**
+
 Modified regimens allow for the consumption of 20–25% of energy needs on scheduled fasting days. This regimen is the basis for the popular 5:2 diet, which involves severe energy restriction for 2 non-consecutive days a week and ad libitum eating the other 5 days.
 
 3. **Time-Restricted Feeding**
+
 These protocols allow individuals to consume ad libitum energy intake within specific windows, which induces fasting periods on a routine basis. Studies of <3 meals per day are indirect examinations of a prolonged daily or nightly fasting periods.
 
 
