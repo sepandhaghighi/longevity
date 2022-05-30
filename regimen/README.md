@@ -83,6 +83,7 @@ Here, we have listed these **4** genes whose effects on the metabolism have been
 	6. Blood pressure (for each observation)
 	7. Physical activity (for each observation)
 	8. Time slot (set for each observation)
+	9. Calories consumed during this period
 2. Preprocessing data
 3. Training a well-structured DNN (Deep Neural Network) on these data
 
