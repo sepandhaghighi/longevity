@@ -87,7 +87,8 @@ Here, we have listed these **4** genes whose effects on the metabolism have been
 2. Preprocessing data
 3. Training a well-structured DNN (Deep Neural Network) on these data
 
-If there are enough samples and successful training of this deep neural network, we will reach a model that can suggest an upper bound for calories consumed over a period of time based on biomarkers and genetic factors.         			
+If there are enough samples and successful training of this deep neural network, we will reach a model that can suggest an upper bound for calories consumed over a period of time based on biomarkers and genetic factors.  
+       			
 The block diagram of this system is shown in the figure.
 
 <div align="center" style="text-align: center;">
